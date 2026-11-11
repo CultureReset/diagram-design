@@ -1,3 +1,14 @@
+> **CultureReset fork of [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design).** An editorial diagram-design skill for coding agents: 45 diagram types as self-contained HTML and SVG.
+>
+> - **Why it is here:** Saved for reference.
+> - **Does anything run from it:** No.
+> - **Changes:** The default branch has no CultureReset commits; it is upstream as of the last sync.
+> - **License:** MIT, from upstream. For updates and issues, use [upstream](https://github.com/cathrynlavery/diagram-design).
+>
+> The upstream README follows unchanged.
+
+---
+
 <div align="center">
 
 <h1>
